@@ -1,0 +1,914 @@
+@media (max-width:1300px) {
+    .nav_lwares .service_nav {
+        font-size: 20px;
+        position: absolute;
+        top: 48px;
+        color: black;
+        left: 20%;
+        font-weight: 500;
+    }
+    .nav_lwares .navbar-brand img {
+        position: absolute;
+        max-width: 210px;
+        height: auto;
+        top: 25px;
+        left: 7%;
+     }
+    
+
+
+}
+@media (max-width:1230px) {
+
+
+    .nav_lwares .service_nav {
+        font-size: 20px;
+        position: absolute;
+        top: 48px;
+        color: black;
+        left: 20%;
+        font-weight: 500;
+    } 
+
+    .nav_lwares .nav-flex {
+        display: flex;
+        position: absolute;
+        top: 40px;
+      gap: 0px;
+        justify-content: flex-start;
+        align-items: center;
+    
+     }
+
+    .nav_lwares .nav-item .nav-link {
+        font-weight: 500;
+        font-size: 16px;
+        color: black;
+        line-height: 1;
+    }
+    
+
+    .nav_lwares .third-navs .nav-link {
+        font-size: 16px;
+        text-decoration: none;
+        color: black;
+        font-weight: 500;
+    }
+    .clients_lwares .head_clients {
+        font-size: 45px;
+        font-weight: 800;
+        margin-bottom: 30px;
+    }
+    
+    .clients_lwares .para_clients {
+        font-size: 18px;
+        font-weight: 400;
+        width: 90%;
+        margin-bottom: 30px;
+    }
+    .home_lwares .home_head {
+        font-size: 45px;
+        font-weight: 700;
+        width: 80%;
+        margin-bottom: 40px;
+    }
+    .home_lwares .home_para {
+        font-size: 18px;
+        color: grey;
+        width: 75%;
+        margin-bottom: 50px;
+    }
+  
+    
+
+    .packages_lwares .head_packages {
+        font-size: 40px;
+        font-size: 800;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        margin-bottom: 30px;
+    }
+    .packages_lwares .para_packages {
+        font-size: 25px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    
+    }
+    .packages_lwares .pack-card-3 {
+        width: 100%;
+    }
+    .packages_lwares .pack-card-1 {
+        width: 100%;
+    }
+    .packages_lwares .pack-card-2 {
+        width: 100%;
+    }
+    .testimonial_lwares .head_test {
+        font-size: 40px;
+        font-weight: 800;
+        width: 70%;
+        margin-bottom: 20px;
+    
+    }
+    .testimonial_lwares .para_test {
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 25px;
+    
+    }
+    .testimonial_lwares .icon1-test .fas {
+        color: #e9112b;
+        opacity: 0.4;
+        z-index: -1;
+        bottom: 90px;
+        left: -30px;
+        position: absolute;
+        font-size: 120px;
+    }
+
+    .extcli_lwares .head_extcli {
+        font-size: 40px;
+         width: 90%;
+        font-weight: 800;
+    }
+    
+    .extcli_lwares .para_extcli {
+        font-size: 16px;
+        font-weight: 400;
+        width: 70%;
+    
+    }
+    .contact_lwares .head_contact {
+        font-size: 45px;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .contact_lwares .ic-con1 {
+        font-size: 60px;
+        color: #c42134;
+    }
+    
+    .contact_lwares .ic-con2 {
+        font-size: 60px;
+        position: absolute;
+        color: #c42134;
+    }
+    
+    .contact_lwares .ic-con3 {
+        font-size: 100px;
+        color: #c42134;
+    }
+
+}
+@media (max-width:1070px) {
+
+    .nav_lwares .navbar-brand img {
+        position: absolute;
+        max-width: 210px;
+        height: auto;
+        top: 25px;
+        left: 7%;
+     }
+    
+     .nav_lwares .service_nav {
+        font-size: 20px;
+        position: absolute;
+        top: 48px;
+        color: black;
+        left: 20%;
+        font-weight: 500;
+    } 
+    .service_lwares .services_content {
+        display: grid;
+        grid-template-columns: auto auto;
+    
+    }
+    .service_lwares .head_service {
+        font-size: 24px;
+        color: rgb(0, 0, 0);
+        font-weight: 800px;
+    }
+    .service_lwares .para_service {
+        font-size: 16px;
+        font-weight: 400;
+        width: 65%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+@media (max-width:991px) {
+    .nav_lwares .service_nav {
+        font-size: 20px;
+        margin-left: 50px;
+        top: 48px;
+        color: black;
+        text-align: center;
+        font-weight: 500;
+    }
+    .nav_lwares .navbar-brand img {
+        max-width: 210px;
+        height: auto;
+        text-align: center;
+        top: 25px;
+
+     }
+     .nav_lwares .nav-ser {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+     }
+     .nav_lwares .nav-item .nav-link {
+        font-weight: 500;
+        font-size: 20px;
+        color: black;
+        line-height: 1;
+    }
+    
+    .navbar-nav {
+        gap: 20px;
+    }
+
+    .nav_lwares .third-navs .nav-link {
+        font-size: 20px;
+        text-decoration: none;
+        color: black;
+        font-weight: 500;
+    }
+    
+    
+       /* 2 navbar*/
+  .nav_lwares .navbar-toggler:focus {
+    box-shadow: none;
+   }
+
+  .nav_lwares .nav-item .nav-link {
+    font-size: 20px;
+    margin-top: 15px;
+   }
+  .nav_lwares .nav-item:last-child .nav-link {
+    margin-bottom: 20px;
+   }
+
+.nav_lwares .nav-flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: static;
+    flex-direction: column;
+    gap: 30px;
+
+ }
+ .nav_lwares .nav-3  {
+    display: flex;
+    margin-right: 10px;
+}
+
+
+   
+   .nav_lwares .navbar-collapse {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #ffffff;
+   }
+
+
+
+
+
+    .home_lwares .home_head {
+        font-size: 40px;
+        font-weight: 700;
+        width: 80%;
+    
+        margin-bottom: 40px;
+    }
+    .home_lwares .home_para {
+        font-size: 18px;
+        color: grey;
+    
+        width: 75%;
+        margin-bottom: 50px;
+    }
+    .clients_lwares .head_clients {
+        font-size: 40px;
+        font-weight: 800;
+        margin-bottom: 30px;
+    }
+    
+    .clients_lwares .para_clients {
+        font-size: 18px;
+        font-weight: 400;
+        width: 90%;
+        margin-bottom: 30px;
+    }
+    .packages_lwares .head_packages {
+        font-size: 40px;
+        font-size: 800;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    .packages_lwares .para_packages {
+        font-size: 25px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    
+    }
+    .extcli_lwares .head_extcli {
+        font-size: 40px;
+        font-weight: 800;
+    }
+    
+    .extcli_lwares .para_extcli {
+        font-size: 18px;
+        font-weight: 400;
+        width: 70%;
+    
+    }
+    .testimonial_lwares .head_test {
+        font-size: 40px;
+        font-weight: 800;
+        width: 80%;
+        margin-bottom: 20px;
+    
+    }
+    .testimonial_lwares .para_test {
+        font-size: 18px;
+        font-weight: 400;
+        margin-bottom: 25px;
+    
+    }
+
+ 
+.contact_lwares .head_contact {
+    font-size: 40px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.footer_lwares .head-logo {
+    font-size: 14px;
+    width: 230px;
+    line-height: 1.7;
+    font-weight: 300;
+}
+.footer_lwares .ftr-col2 li {
+    font-weight: 300;
+    font-size: 12px;
+    color: rgb(230, 227, 223);
+}
+.footer_lwares .para-cred {
+    font-size: 14px;
+}
+    
+}
+@media (max-width:768px) {
+
+    .nav_lwares .navbar-brand img {
+        position: absolute;
+        max-width: 210px;
+        height: auto;
+        top: 25px;
+    
+     }
+    
+     .nav_lwares .service_nav {
+        font-size: 20px;
+        position: absolute;
+        top: 48px;
+        color: black;
+    
+        font-weight: 500;
+    } 
+    .header-scrolled .nav-item .nav-link {
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .home_lwares .home_content {
+        text-align: center;
+    }
+
+    .home_lwares .home_head {
+        font-size: 34px;
+        font-weight: 700;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+    }
+    .home_lwares .home_para {
+        font-size: 16px;
+        color: grey;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+    }
+    .home_lwares .btn-home-1 {
+        border: 1px solid black;
+        border-radius: 5px;
+        background-color: white;
+        padding: 7px 10px;
+        margin-right: 15px;
+        margin-bottom: 30px;
+    }
+    .home_lwares .home_imgs {
+        text-align: center;
+    }
+    .clients_lwares .head_clients {
+        font-size: 34px;
+        font-weight: 800;
+        margin-bottom: 30px;
+    }
+    
+    .clients_lwares .para_clients {
+        font-size: 16px;
+        font-weight: 400;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    .clients_lwares .client_content {
+        text-align: center;
+    }
+
+.clients_lwares .clients_imgs {
+    display: grid;
+   grid-column-gap: 40px;
+   grid-row-gap: 40px;
+    grid-template-columns: auto auto auto;
+}
+.service_lwares .para_service {
+    font-size: 14px;
+    font-weight: 400;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.service_lwares .head_service {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 800px;
+}
+.packages_lwares .head_packages {
+    font-size: 34px;
+    font-size: 800;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 30px;
+}
+.packages_lwares .para_packages {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+
+}
+.packages_lwares .bas-prm {
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+}
+.packages_lwares .pack-card-1 {
+    border: 1px solid gray;
+    padding: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+.packages_lwares .pack-card-2 {
+    border: 1px solid gray;
+    padding: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+.packages_lwares .pack-card-3 {
+    border: 1px solid gray;
+    padding: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+.testimonial_lwares .head_test {
+    font-size: 34px;
+    font-weight: 800;
+    width: 70%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+.testimonial_lwares .cont1-test {
+    text-align: center;
+}
+.testimonial_lwares .para_test {
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+
+}
+.testimonial_lwares .icon1-test .fas {
+    color: #e9112b;
+    opacity: 0.4;
+    z-index: -1;
+    top: -50px;
+    left: 50px;
+    position: absolute;
+    font-size: 90px;
+}
+.testimonial_lwares .card-test-1 {
+    border: 1px solid transparent;
+    width: 250px;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.testimonial_lwares .card-test-3 {
+    border: 1px solid transparent;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    
+
+}
+.testimonial_lwares .card-test-2 {
+    border: 1px solid transparent;
+    margin-bottom: 50px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    
+
+}
+.extcli_lwares .head_extcli {
+    font-size: 36px;
+    font-weight: 800;
+    width: 70%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.extcli_lwares .para_extcli {
+    font-size: 16px;
+    font-weight: 400;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact_lwares .head_contact {
+    font-size: 34px;
+    width: 75%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.contact_lwares .ic-con1 {
+    font-size: 50px;
+ 
+    color: #c42134;
+}
+
+.contact_lwares .ic-con2 {
+    font-size: 50px;
+    color: #c42134;
+}
+
+.contact_lwares .ic-con3 {
+    font-size: 80px;
+
+    color: #c42134;
+}
+.footer_lwares .footer-con {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 0px;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.footer_lwares .head-logo {
+    font-size: 16px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.7;
+    font-weight: 300;
+}
+
+.footer_lwares .logo-ftr {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.footer_lwares .ftr-col1 {
+    display: flex;
+    margin-top: -30px;
+    align-items: center;
+    left: 100px;
+    flex-direction: column;
+}
+.footer_lwares .para-cred {
+    font-size: 16px;
+    text-align: center;
+}
+.footer_lwares .ftr-col2 li {
+    font-weight: 300;
+    font-size: 16px;
+    color: rgb(230, 227, 223);
+}
+    
+}
+@media (max-width:576px) {
+
+    .home_lwares .home_head {
+        font-size: 28px;
+        font-weight: 700;
+        width: 85%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+    }
+    .home_lwares .home_para {
+        font-size: 14px;
+        color: grey;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+    }
+    .home_lwares .btn-home-1 {
+        border: 1px solid black;
+        border-radius: 5px;
+        background-color: white;
+        padding: 7px 10px;
+        margin-right: 5px;
+        margin-bottom: 30px;
+    }
+    .home_lwares .link-home-1 {
+        font-size: 12px;
+        color: black;
+        font-weight: 400;
+        text-decoration: none;
+    
+    }
+    .home_lwares .link-home-2 {
+        font-size: 12px;
+        color: black;
+        font-weight: 400;
+        text-decoration: none;
+    
+    }
+    .clients_lwares .head_clients {
+        font-size: 28px;
+        font-weight: 800;
+        margin-bottom: 30px;
+    }
+    
+    .clients_lwares .para_clients {
+        font-size: 14px;
+        font-weight: 400;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    
+    .clients_lwares .clients_imgs {
+        display: grid;
+        margin-top: 20px;
+        grid-template-columns: auto auto;
+    }
+    .service_lwares .services_content {
+        display: grid;
+        grid-template-columns: auto;
+        margin-bottom: 20px;
+    
+    }
+    .packages_lwares .head_packages {
+        font-size: 28px;
+        font-size: 800;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        margin-bottom: 30px;
+    }
+    .packages_lwares .para_packages {
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    
+    }
+    .packages_lwares .packages_content .p-disc {
+        font-size: 10px;
+    }
+    
+    .packages_lwares .bas-prm {
+        display: flex;
+        justify-content: center;
+        gap: 100px;
+    }
+    .packages_lwares .basic-pack {
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .packages_lwares .prem-pack {
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .packages_lwares .p-extra {
+        font-size: 16px;
+        font-weight: 400 ;
+    }
+    .packages_lwares .extra-con {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        bottom: 10px;
+        height: 34px;
+      }
+        
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 20px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  .packages_lwares .pack-card-1 {
+    width: 90%;
+  }
+  .packages_lwares .pack-card-2 {
+    width: 90%;
+  }
+  .packages_lwares .pack-card-3 {
+    width: 90%;
+  }
+
+  .testimonial_lwares .head_test {
+    font-size: 28px;
+    font-weight: 800;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+.testimonial_lwares .cont1-test {
+    text-align: center;
+}
+.testimonial_lwares .para_test {
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+
+}
+
+.extcli_lwares .head_extcli {
+    font-size: 28px;
+    font-weight: 800;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.testimonial_lwares .icon1-test .fas {
+    color: #e9112b;
+    opacity: 0.4;
+    z-index: -1;
+    top: -50px;
+    left: 80px;
+    position: absolute;
+    font-size: 90px;
+}
+
+.extcli_lwares .para_extcli {
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact_lwares .head_contact {
+    font-size: 28px;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.contact_lwares .ic-con1 {
+    font-size: 30px;
+  
+}
+
+.contact_lwares .ic-con2 {
+    font-size: 30px;
+
+}
+
+.contact_lwares .ic-con3 {
+    font-size: 60px;
+ 
+} 
+.contact_lwares .con-btn {
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(125, 35, 35);
+    background-color: #c42134;
+}
+.contact_lwares .con-link {
+    text-decoration: none;
+    font-size: 10px;
+    word-spacing: 2px;
+    font-weight: 400;
+    color: white;
+}
+
+.footer_lwares .footer-con {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 0px;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.footer_lwares .head-logo {
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.7;
+    font-weight: 300;
+}
+
+.footer_lwares .logo-ftr {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.footer_lwares .ftr-col1 {
+    display: flex;
+    margin-top: -30px;
+    align-items: center;
+    left: 100px;
+    flex-direction: column;
+}
+.footer_lwares .para-cred {
+    font-size: 14px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.footer_lwares .ftr-col2 li {
+    font-weight: 300;
+    font-size: 14px;
+    color: rgb(230, 227, 223);
+}
+.extcli_lwares .extcli-imgs {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+    
+}
